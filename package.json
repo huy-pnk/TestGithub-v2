@@ -1,0 +1,25 @@
+{
+  "name": "testgithub",
+  "version": "1.0.0",
+  "description": "A test repository created from local folder",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "github",
+    "nodejs"
+  ],
+  "author": "huy-pnk",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huy-pnk/TestGithub-v2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/huy-pnk/TestGithub-v2/issues"
+  },
+  "homepage": "https://github.com/huy-pnk/TestGithub-v2#readme"
+}
